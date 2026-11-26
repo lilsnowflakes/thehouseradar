@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="140" viewBox="0 0 600 140" fill="#362846">
+  <!-- C: sport yacht with a flybridge -->
+  <path d="M20 80 L470 74 Q560 76 598 88 L560 104 Q420 116 36 116 L20 112 Z"/>
+  <path d="M90 80 L120 52 L380 46 Q430 48 470 76 Z"/>
+  <path d="M170 50 L190 30 L320 28 L340 48 Z"/>
+  <path d="M250 30 L262 6 L272 6 L266 30 Z"/>
+  <rect x="200" y="22" width="110" height="5" rx="2"/>
+</svg>

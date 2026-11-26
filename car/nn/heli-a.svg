@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="170" viewBox="0 0 420 170" fill="#362846">
+  <!-- A: light helicopter, bubble cabin, skids -->
+  <path d="M118 74 Q126 40 188 37 L250 39 Q288 44 302 72 Q302 100 270 108 L152 108 Q116 104 118 74 Z"/>
+  <path d="M292 60 L398 64 L398 73 L292 90 Z"/>
+  <path d="M388 36 L408 36 L404 76 L390 76 Z"/>
+  <path d="M190 40 Q200 28 232 28 Q250 30 256 41 Z"/>
+  <rect x="204" y="18" width="12" height="16" rx="3"/>
+  <path d="M136 132 L304 132 Q316 132 320 122" fill="none" stroke="#362846" stroke-width="6" stroke-linecap="round"/>
+  <path d="M172 106 L166 132 M262 106 L268 132" stroke="#362846" stroke-width="6" stroke-linecap="round"/>
+</svg>

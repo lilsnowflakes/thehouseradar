@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="140" viewBox="0 0 600 140" fill="#362846">
+  <!-- A: offshore racer, long and low, raked screen -->
+  <path d="M24 92 L480 88 Q560 90 598 98 L566 108 Q430 117 40 114 L24 110 Z"/>
+  <path d="M250 90 L292 70 Q330 64 380 66 L420 90 Z"/>
+  <path d="M286 72 L312 52 L320 54 L300 72 Z"/>
+  <rect x="6" y="88" width="22" height="22" rx="4"/>
+  <path d="M60 88 L70 76 L120 76 L126 88 Z"/>
+</svg>

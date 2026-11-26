@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="140" viewBox="0 0 600 140" fill="#362846">
+  <!-- B: center console, T-top, twin outboards -->
+  <path d="M30 86 L470 84 Q556 86 598 95 L562 106 Q430 116 44 114 L30 112 Z"/>
+  <path d="M206 86 L232 66 L330 61 L392 61 Q414 63 436 86 Z"/>
+  <path d="M286 61 L278 26 L366 26 L374 61" fill="none" stroke="#362846" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="270" y="20" width="110" height="9" rx="3"/>
+  <rect x="8" y="78" width="26" height="36" rx="4"/><rect x="2" y="74" width="16" height="10" rx="3"/>
+  <circle cx="300" cy="54" r="7"/><rect x="294" y="58" width="12" height="20" rx="4"/>
+</svg>

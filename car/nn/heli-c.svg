@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="170" viewBox="0 0 420 170" fill="#362846">
+  <!-- C: twin-engine utility, boxy cabin, wheels -->
+  <path d="M84 92 Q86 64 120 52 L170 44 L292 44 Q318 48 324 74 L324 108 Q320 120 300 120 L110 120 Q86 118 84 92 Z"/>
+  <path d="M150 46 Q160 24 210 22 L270 22 Q296 24 304 46 Z"/>
+  <path d="M316 58 L392 66 L394 76 L316 98 Z"/>
+  <path d="M382 34 L404 30 L404 78 L388 78 Z"/>
+  <path d="M370 74 L414 70 L414 78 L372 82 Z"/>
+  <rect x="226" y="10" width="12" height="16" rx="3"/>
+  <path d="M138 120 L132 140 M286 120 L292 140" stroke="#362846" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="132" cy="144" r="10"/><circle cx="292" cy="144" r="10"/>
+</svg>
